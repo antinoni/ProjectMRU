@@ -134,3 +134,8 @@
 - Place: Waterford City, Ireland
 - Bio: Recent Graduate of Full Stack Development from Code Institute
 - GitHub: [Auxfuse](https://github.com/auxfuse)
+
+##### Name: [Antinoni](https://github.com/antinoni)
+- Place: Greece
+- Bio: Electrical & Computer Engineering Student
+- GitHub: [antinoni](https://github.com/antinoni)
